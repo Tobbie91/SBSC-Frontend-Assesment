@@ -1,5 +1,6 @@
 {
+  "framework": "angular",
   "buildCommand": "pnpm i --frozen-lockfile && pnpm nx build ng-host",
-  "outputDirectory": "dist/apps/ng-host",
-  "framework": "static"
+  "outputDirectory": "dist/ng-host",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }

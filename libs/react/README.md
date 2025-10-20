@@ -27,3 +27,5 @@ Integrate Angular and React in a single Nx workspace using Web Components and An
 ```bash
 pnpm i
 pnpm nx serve ng-host
+
+**Live Demo (Vercel):** https://sbsc-frontend-task.vercel.app/

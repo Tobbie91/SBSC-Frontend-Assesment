@@ -1,0 +1,5 @@
+{
+  "buildCommand": "pnpm i --frozen-lockfile && pnpm nx build ng-host",
+  "outputDirectory": "dist/apps/ng-host",
+  "framework": "static"
+}

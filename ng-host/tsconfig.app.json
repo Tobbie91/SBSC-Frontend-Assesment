@@ -1,0 +1,22 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../../dist/out-tsc",
+    "types": [],
+    "jsx": "react-jsx",
+    "module": "ES2022"           
+  },
+  "files": [],
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "../../libs/react/src/**/*.ts",
+    "../../libs/react/src/**/*.tsx"
+  ],
+  "exclude": [
+    "src/**/*.spec.ts",
+    "src/**/*.test.ts",
+    "src/**/*.e2e.ts",
+    "src/**/*.e2e-spec.ts"
+  ]
+}

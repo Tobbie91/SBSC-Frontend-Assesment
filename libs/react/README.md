@@ -28,4 +28,8 @@ Integrate Angular and React in a single Nx workspace using Web Components and An
 pnpm i
 pnpm nx serve ng-host
 
-**Live Demo (Vercel):** https://sbsc-frontend-task.vercel.app/
+# SBSC Innovative Feature — Angular ↔ React Interop (Nx Monorepo)
+
+**Live Demo (Vercel):** [https://sbsc-frontend-task.vercel.app/](https://sbsc-frontend-task.vercel.app/)  
+**GitHub Repository:** [https://github.com/Tobbie91/SBSC-Frontend-Assesment](https://github.com/Tobbie91/SBSC-Frontend-Assesment)  
+**Documentation (Google Doc):** [View Here](https://docs.google.com/document/d/1LZCr8nv_D4zO6JJ4r-3Wo01dGzv2db6QwRKPpGRTgks/edit?usp=sharing)
